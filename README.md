@@ -1,3 +1,3 @@
-### Topic-Modelling-of-The-Articles
+### Topic modelling of the articles
 
 This project is based on NLP (Natural language processing). The main business objective of the project is to obtain the social event tracking, evolution framework, and evolutionary trends of social events and generate effective event summary details over time. This machine learning model is designed and having the capability to show the top trending live social events occurring across the world. This ML model will take the live tweets from Twitter and it will analyze them and will provide highly accurate trending social events. This model can be helpful to clients who are working in the online business, social media marketing, YouTubers, and many more. to make better decisions quickly.
